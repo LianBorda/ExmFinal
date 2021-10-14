@@ -7,7 +7,7 @@
 
 Resumen
 
-En este proyecto, se realiza una detección de pose 3D usando la biblioteca mediapipe en Python. Después de eso, calcularemos los ángulos entre las articulaciones del cuerpo y los combinaremos con algunas heurísticas para crear un sistema de clasificación de señalizaciones mas usadas por los ciclistas cuandovan en la via. 
+En este proyecto, se realiza una detección de pose 3D usando la biblioteca mediapipe en Python. Después de eso, calcularemos los ángulos entre las articulaciones del cuerpo y los combinaremos con algunos métodos para crear un sistema de clasificación de las señalizaciones mas usadas por los ciclistas cuando transitan una via. 
 
 Todo esto funcionará mediante el uso de videos y esta planteado para que luego se pueda usar en tiempo real mediante el uso de una  camara en la parte frotal del ciclista. 
 
