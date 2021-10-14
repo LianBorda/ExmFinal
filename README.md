@@ -71,6 +71,11 @@ se crear condicionales que se deben cumplir para que una pose se clasifique segu
 
 ![image](https://user-images.githubusercontent.com/81332414/137359918-32b8d2f0-67ac-44a9-a1f6-0227e4c350e7.png)
 
+# Clasificacion de las 7 señales de ciclistas
+
+![image](https://user-images.githubusercontent.com/81332414/137360863-400172a5-ddc4-4f0f-9f38-cf1f756ebce6.png)
+
+
  
 
 
